@@ -10,20 +10,23 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - Javascript
 - HTML
 
+
 ## ↩️ Pré-requisitos
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas: Git, Node.js. Além disto é bom ter um editor para trabalhar com o código como o VSCode.
 
+
 # 🏁 Rodando o projeto
-## Clone este repositório
+### Clone este repositório
 $ git clone <https://github.com/monica-araujo/blackjack.git>
 
-## Acesse a pasta do projeto no terminal
+### Acesse a pasta do projeto no terminal
 $ cd ./blackjack
 
-## Abra o arquivo no VSCode
+### Abra o arquivo no VSCode
 $ code .
 
-## Rode o arquivo index.html com o Live Server
+### Rode o arquivo index.html com o Live Server
+
 
 # 👷 Desenvolvedora: 
 - Mônica Araujo
