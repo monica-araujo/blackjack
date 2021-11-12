@@ -4,7 +4,7 @@
 ## 📓 Sobre
 - Projeto desenvolvido conforme proposta do bootcamp ministrado pela Labenu, para a construção de um jogo chamado Blackjack. Neste programa, o usuário deve abrir o console de seu navegador e decide iniciar uma jogada. Seu oponente é o prórpio computador. O programa sorteia e escolhe a carta de cada oponente, de forma aleatória. Aquele que obter a maior pontuação até o número 21 vence! 
 
-🛠 Tecnologias
+## 🛠 Tecnologias
 As seguintes ferramentas foram usadas na construção do projeto:
 
 - Javascript
